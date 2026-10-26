@@ -57,7 +57,7 @@ An interactive Power BI dashboard built on 8,523 grocery records from Swiggy Ins
 ## Repository Files
 - `Swiggy_Instamart_Dashboard.pbix` - Power BI report file
 - `Swiggy_Instamart_Dashboard.pdf` - PDF export of the dashboard
-- `01_dashboard_overview.png`, `02_filtered_view.png`, `03_data_model.png`, `04_power_query_steps.png` - screenshots
+- `01_dashboard_overview.png`, `02_data_model.png`, `03_filtered_view.png`, `04_power_query_steps.png` - screenshots
 
 ## How to Open
 1. Download `Swiggy_Instamart_Dashboard.pbix`.
